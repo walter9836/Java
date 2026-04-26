@@ -10,8 +10,5 @@ build2/
 .project
 .settings/
 
-# Local tool/agent config
-.claude/
-
 # General ignores
 .DS_Store
