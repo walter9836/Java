@@ -1,28 +1,54 @@
+5
 ASUS ROG Swift
-Samsung Odyssey G7
-MSI Optix G24
-LG UltraGear
-Gigabyte M27Q
 2500.0
+27.0
+240
+4K
+2
+IPS
+1
+HDMI, DP, USB-C
+36
+Samsung Odyssey G7
 1800.0
+32.0
+240
+2K
+10
+VA
+1
+HDMI, DP
+24
+MSI Optix G24
 950.0
+24.0
+144
+FHD
+15
+IPS
+4
+HDMI, DP
+12
+LG UltraGear
 1200.0
+27.0
+165
+FHD
+12
+IPS
+1
+HDMI, DP
+24
+Gigabyte M27Q
 1550.0
 27.0
-32.0
-24.0
-27.0
-27.0
-240
-240
-144
-165
 170
-4K
 2K
-FHD
-FHD
-2K
+8
+IPS
+1
+HDMI, DP, USB-C
+24
 5.0
 7.5
 10.0
@@ -30,6 +56,9 @@ FHD
 Mouse Gamer
 Teclado Mecánico
 Silla Gamer
-5000.0
-11
-499572.5
+1000.0
+3
+0.0
+false
+0
+2026-04-25

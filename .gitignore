@@ -1,11 +1,17 @@
 # Compiled class files
 *.class
 bin/
+build/
+build2/
+*.jar
 
 # Eclipse project files
 .classpath
 .project
 .settings/
+
+# Local tool/agent config
+.claude/
 
 # General ignores
 .DS_Store
